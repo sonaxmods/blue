@@ -1,5 +1,5 @@
 //##################
-//private blueclient b6.0
+//private blueclient b9.1
 //by sonaxmods™
 //contact me? Skype: SonaxModz Real
 //##################
@@ -12,7 +12,7 @@ var dir = new java.io.File(new android.os.Environment.getExternalStorageDirector
 //setting up a constance
 
 const
-      beta = "b8",
+      beta = "b9",
       chat = ChatColor.AQUA + "Blue " + ChatColor.WHITE + beta + ChatColor.AQUA        
       + " > " + ChatColor.WHITE,
       ctx = com.mojang.minecraftpe.MainActivity.currentMainActivity.get(),
